@@ -24,7 +24,7 @@ A feature-rich Checkers game built with C++ and SDL2, featuring a graphical inte
 ### Building from Source
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/checkers-game.git
+git clone https://github.com/shil200502/checkers-game.git
 
 # Navigate to project directory
 cd checkers-game
